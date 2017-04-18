@@ -23,8 +23,8 @@ beaglebone would control it instead.
     1. [Ubuntu 14.04](https://gist.github.com/timothybasanov/4cac1f8be77a6f912886)
     2. [NodeJs 0.10](http://nodejs.org/) (0.12 is not compatible with bonescript as of April 2015)
     ```
-sudo apt-get install npm nodejs-legacy
-```
+    sudo apt-get install npm nodejs-legacy
+    ```
     3. NodeNest service & configuration:
         1. `git clone https://github.com/timothybasanov/node-nest.git`
         2. `cd node-nest`
